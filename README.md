@@ -13,3 +13,8 @@ This project uses Artificial Neural Network (ANN) to predict potato prices based
 
 ## Output
 Predicts potato price based on kg input.
+
+## Credit
+If you use this project, please mention:
+Author: Shamiul Haque Shimon  
+GitHub: https://github.com/shamiulHaque41 
